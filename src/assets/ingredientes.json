@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Farinha",
+    "qtd": 1000,
+    "value": 6,
+    "qtdUsed": 417
+  },
+  {
+    "name": "Leite",
+    "qtd": 1000,
+    "value": 6,
+    "qtdUsed": 334
+  },
+  {
+    "id": 2,
+    "name": "Ovo",
+    "qtd": 1,
+    "value": 0.5,
+    "qtdUsed": 5
+  },
+  {
+    "id": 3,
+    "name": "Manteiga",
+    "qtd": 5000,
+    "value": 110,
+    "qtdUsed": 280
+  },
+  {
+    "id": 4,
+    "name": "Açúcar",
+    "qtd": 1000,
+    "value": 4,
+    "qtdUsed": 292
+  }
+]
