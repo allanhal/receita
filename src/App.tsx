@@ -1,11 +1,12 @@
 import React from "react";
+import { BrowserRouter } from "react-router-dom";
 import "./App.css";
-import Table from "./components/Table";
+import { Router } from "./Router";
 
 export default function App() {
   return (
-    <div className="App">
-      <Table />
-    </div>
+    <BrowserRouter>
+      <Router />
+    </BrowserRouter>
   );
 }
