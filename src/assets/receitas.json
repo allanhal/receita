@@ -40,16 +40,30 @@
     {
       "id": 0,
       "name": "Frango",
-      "qtd": 1000,
-      "value": 17,
-      "qtdUsed": 150
+      "qtd": 16,
+      "value": 24.69,
+      "qtdUsed": 2
     },
     {
       "id": 2,
-      "name": "Ovo",
+      "name": "Molho",
       "qtd": 1,
-      "value": 0.5,
-      "qtdUsed": 5
+      "value": 7.97,
+      "qtdUsed": 0.5
+    },
+    {
+      "id": 3,
+      "name": "Macarrão",
+      "qtd": 1,
+      "value": 5.55,
+      "qtdUsed": 0.25
+    },
+    {
+      "id": 4,
+      "name": "Temperos",
+      "qtd": 1,
+      "value": 1,
+      "qtdUsed": 1
     }
   ]
 }
